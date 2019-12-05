@@ -3,7 +3,7 @@
     "publisher": "manishjangir",
     "displayName": "Awesome JavaScript VSCode Extensions Pack",
     "description": "A pack of most useful and must to have vscode extensions to work efficiently with JavaScript in visual studio code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.0.0"
     },
