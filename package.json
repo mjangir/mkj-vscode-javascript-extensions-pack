@@ -1,0 +1,70 @@
+{
+    "name": "mkj-vscode-javascript-extensions-pack",
+    "publisher": "manishjangir",
+    "displayName": "Awesome JavaScript VSCode Extensions Pack",
+    "description": "A pack of most useful and must to have vscode extensions to work efficiently with JavaScript in visual studio code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "author": {
+        "name": "Manish Jangir"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#5271ff",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mjangir/mkj-vscode-javascript-extensions-pack.git"
+    },
+    "license": "MIT",
+    "keywords": [
+        "javascript",
+        "react",
+        "npm",
+        "extension",
+        "pack",
+        "debugger"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "wix.vscode-import-cost",
+        "christian-kohler.npm-intellisense",
+        "dkundel.vscode-npm-source",
+        "christian-kohler.path-intellisense",
+        "ionutvmi.path-autocomplete",
+        "jakob101.relativepath",
+        "msjsdiag.debugger-for-chrome",
+        "WallabyJs.quokka-vscode",
+        "eg2.vscode-npm-script",
+        "mgmcdermott.vscode-language-babel",
+        "jasonnutter.search-node-modules",
+        "chakrounanas.turbo-console-log",
+        "kamikillerto.vscode-colorize",
+        "yzhang.markdown-all-in-one",
+        "deerawan.vscode-dash",
+        "sleistner.vscode-fileutils",
+        "xyz.local-history",
+        "visualstudioexptteam.vscodeintellicode",
+        "ritwickdey.LiveServer",
+        "eamodio.gitlens",
+        "Shan.code-settings-sync",
+        "alefragnani.project-manager",
+        "mikestead.dotenv",
+        "pkief.material-icon-theme",
+        "naumovs.theme-oceanicnext",
+        "sdras.night-owl",
+        "streetsidesoftware.code-spell-checker",
+        "coenraads.bracket-pair-colorizer-2",
+        "aaron-bond.better-comments",
+        "vincaslt.highlight-matching-tag",
+        "formulahendry.auto-complete-tag",
+        "wayou.vscode-todo-highlight"
+    ]
+}
